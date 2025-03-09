@@ -1,3 +1,4 @@
+---@diagnostic disable: missing-parameter
 local Framework = LoadFramework()
 
 AddEventHandler('onClientResourceStart', function()
