@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-field, need-check-nil
 -- Pastikan framework terdeteksi dengan aman
 local QBCore, ESX, Framework = nil, nil, nil
 
